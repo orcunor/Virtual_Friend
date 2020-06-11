@@ -1,0 +1,4 @@
+pyttsx3
+pythoncom
+
+ModuleNotFoundError: No module named 'pythoncom' hatası alırsanız pywin32 kütüphanesini yüklemeniz gerekiyor, pip install pywin32.
